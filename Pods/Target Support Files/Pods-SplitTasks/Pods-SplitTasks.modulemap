@@ -1,0 +1,6 @@
+framework module Pods_SplitTasks {
+  umbrella header "Pods-SplitTasks-umbrella.h"
+
+  export *
+  module * { export * }
+}
